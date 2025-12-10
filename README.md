@@ -10,8 +10,16 @@
 - [ ] Lock Screen binding
 - [X] Ubuntu System Color auf Dark setzen
 - [X] ZSH
-- [ ] Terminal
+- [X] Terminal
 - [ ] Alles hübsch machen
+    - [ ] Status Bar Theme
+    - [ ] Terminal Theme
+    - [ ] Terminal Transparency
+    - [ ] Terminal Font
+    - [ ] Desktop Background
+    - [ ] Rofi Theme
+    - [ ] Lock Screen Theme
+    - [ ] Remove Window Frame or atleast recolor it
 - [ ] neovim konfigurieren
 - [ ] Keepass Installieren
 - [ ] Discord im Browser testen
