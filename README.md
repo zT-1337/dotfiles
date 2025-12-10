@@ -1,1 +1,18 @@
 # dotfiles
+
+## Todos
+
+- [x] i3
+- [ ] i3 workspace Namen
+- [x] i3status-rs
+- [ ] Program Launcher
+- [ ] Lock Screen
+- [ ] Lock Screen binding
+- [ ] Ubuntu System Color auf Dark setzen
+- [ ] ZSH
+- [ ] Terminal
+- [ ] Alles hübsch machen
+- [ ] neovim konfigurieren
+- [ ] Keepass Installieren
+- [ ] Discord im Browser testen
+
