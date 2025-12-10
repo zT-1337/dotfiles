@@ -15,4 +15,5 @@
 - [ ] neovim konfigurieren
 - [ ] Keepass Installieren
 - [ ] Discord im Browser testen
+- [X] Config Files auf GitHub bringen
 
