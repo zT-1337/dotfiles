@@ -16,5 +16,5 @@
 - [ ] Keepass Installieren
 - [ ] Discord im Browser testen
 - [X] Config Files auf GitHub bringen
-- [ ] Conside TaskWarrior as a Tool + i3status-rs block + zsh plugin
+- [ ] Consider TaskWarrior as a Tool + i3status-rs block + zsh plugin
 
