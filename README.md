@@ -5,10 +5,10 @@
 - [x] i3
 - [ ] i3 workspace Namen
 - [x] i3status-rs
-- [ ] Program Launcher
+- [x] Program Launcher
 - [ ] Lock Screen
 - [ ] Lock Screen binding
-- [ ] Ubuntu System Color auf Dark setzen
+- [X] Ubuntu System Color auf Dark setzen
 - [X] ZSH
 - [ ] Terminal
 - [ ] Alles hübsch machen
