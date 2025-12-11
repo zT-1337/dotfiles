@@ -28,6 +28,7 @@
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
 - [X] Discord im Browser testen
+- [ ] Discord Client installieren
 - [X] Config Files auf GitHub bringen
 - [ ] Consider TaskWarrior as a Tool + i3status-rs block + zsh plugin
 
