@@ -180,7 +180,7 @@ for_window [class="^.*"] border pixel 2
 
 focus_follows_mouse no
 
-client.focused #89b4fa #89b4fa #cdd6f4 #ff0000 #89b4fa
+client.focused #89b4fa #89b4fa #cdd6f4 #89b4fa #89b4fa
 
 bar {
 	font pango:Hack, FontAwesome 12

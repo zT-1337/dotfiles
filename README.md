@@ -13,9 +13,9 @@
 - [X] Terminal
 - [ ] Alles hübsch machen
     - [X] Status Bar Theme
-    - [ ] Terminal Theme
-    - [ ] Terminal Transparency
-    - [ ] Terminal Font
+    - [X] Terminal Theme
+    - [X] Terminal Transparency
+    - [X] Terminal Font
     - [ ] Desktop Background
     - [ ] Rofi Theme
     - [ ] Lock Screen Theme
