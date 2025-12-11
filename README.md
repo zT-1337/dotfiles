@@ -14,9 +14,9 @@
 - [ ] Alles hübsch machen
     - [X] Status Bar Theme
     - [X] Terminal Theme
-    - [X] Terminal Transparency
+    - [ ] Terminal Transparency
     - [X] Terminal Font
-    - [ ] Desktop Background
+    - [X] Desktop Background
     - [ ] Rofi Theme
     - [ ] Lock Screen Theme
     - [X] Reduce Title Bar from i3 tiles
