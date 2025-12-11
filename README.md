@@ -24,7 +24,7 @@
 - [ ] neovim konfigurieren
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
-- [ ] Discord im Browser testen
+- [X] Discord im Browser testen
 - [X] Config Files auf GitHub bringen
 - [ ] Consider TaskWarrior as a Tool + i3status-rs block + zsh plugin
 
