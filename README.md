@@ -21,6 +21,10 @@
     - [X] Reduce Title Bar from i3 tiles
     - [X] i3 Window Border Color
 - [ ] neovim konfigurieren
+  - [X] neovim installieren
+  - [X] astrovim installieren
+  - [ ] Nerd Fonts installieren für Icons
+  - [ ] C/C++ language pack installieren
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
 - [X] Discord im Browser testen
