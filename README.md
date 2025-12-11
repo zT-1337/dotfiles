@@ -24,7 +24,7 @@
   - [X] neovim installieren
   - [X] astrovim installieren
   - [ ] Nerd Fonts installieren für Icons
-  - [ ] C/C++ language pack installieren
+  - [X] C/C++ language pack installieren
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
 - [X] Discord im Browser testen
