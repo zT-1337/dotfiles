@@ -182,5 +182,6 @@ bar {
 	font pango:Hack, FontAwesome 12
 	position top
 	status_command $HOME/.cargo/bin/i3status-rs $HOME/.config/i3/status_bar.toml
+	tray_output none
 }
 
