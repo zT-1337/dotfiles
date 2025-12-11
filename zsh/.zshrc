@@ -117,3 +117,7 @@ bindkey '^[[1;5D' insert-cycledleft
 bindkey '^[[1;5C' insert-cycledright
 bindkey '^[[1;5A' insert-cycledup
 bindkey '^[[1;5B' insert-cycleddown
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
