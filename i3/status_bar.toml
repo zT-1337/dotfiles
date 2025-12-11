@@ -1,5 +1,6 @@
 [theme]
-theme = "slick"
+theme = "ctp-mocha"
+
 [icons]
 icons = "awesome4"
 
@@ -26,7 +27,7 @@ block = "net"
 
 [[block]]
 block = "time"
-format = "$icon $timestamp.datetime(f:'%d-%m-%y %R')"
+format = " $icon $timestamp.datetime(f:'%d-%m-%y %R') "
 
 [[block]]
 block = "sound"

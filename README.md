@@ -2,25 +2,25 @@
 
 ## Todos
 
-- [x] i3
+- [X] i3
 - [ ] i3 workspace Namen
-- [x] i3status-rs
-- [x] Program Launcher
+- [X] i3status-rs
+- [X] Program Launcher
 - [ ] Lock Screen
 - [ ] Lock Screen binding
 - [X] Ubuntu System Color auf Dark setzen
 - [X] ZSH
 - [X] Terminal
 - [ ] Alles hübsch machen
-    - [ ] Status Bar Theme
+    - [X] Status Bar Theme
     - [ ] Terminal Theme
     - [ ] Terminal Transparency
     - [ ] Terminal Font
     - [ ] Desktop Background
     - [ ] Rofi Theme
     - [ ] Lock Screen Theme
-    - [x] Reduce Title Bar from i3 tiles
-    - [ ] i3 Window Border Color
+    - [X] Reduce Title Bar from i3 tiles
+    - [X] i3 Window Border Color
 - [ ] neovim konfigurieren
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
