@@ -17,7 +17,7 @@
     - [ ] Terminal Transparency
     - [X] Terminal Font
     - [X] Desktop Background
-    - [ ] Rofi Theme
+    - [X] Rofi Theme
     - [ ] Lock Screen Theme
     - [X] Reduce Title Bar from i3 tiles
     - [X] i3 Window Border Color
