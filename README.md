@@ -20,15 +20,15 @@
     - [ ] Lock Screen Theme
     - [X] Reduce Title Bar from i3 tiles
     - [X] i3 Window Border Color
-- [ ] neovim konfigurieren
+- [X] neovim konfigurieren
   - [X] neovim installieren
   - [X] astrovim installieren
-  - [ ] Nerd Fonts installieren für Icons
+  - [X] Nerd Fonts installieren für Icons
   - [X] C/C++ language pack installieren
 - [ ] Keepass Installieren
 - [ ] Keepass User Script für Rofi einrichten
 - [X] Discord im Browser testen
-- [ ] Discord Client installieren
+- [X] Discord Client installieren
 - [X] Config Files auf GitHub bringen
 - [ ] Consider TaskWarrior as a Tool + i3status-rs block + zsh plugin
 
