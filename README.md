@@ -25,8 +25,7 @@
   - [X] astrovim installieren
   - [X] Nerd Fonts installieren für Icons
   - [X] C/C++ language pack installieren
-- [ ] Keepass Installieren
-- [ ] Keepass User Script für Rofi einrichten
+- [X] Keepass Installieren
 - [X] Discord im Browser testen
 - [X] Discord Client installieren
 - [X] Config Files auf GitHub bringen
