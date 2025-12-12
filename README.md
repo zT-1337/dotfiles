@@ -3,7 +3,6 @@
 ## Todos
 
 - [X] i3
-- [ ] i3 workspace Namen
 - [X] i3status-rs
 - [X] Program Launcher
 - [ ] Lock Screen
