@@ -18,6 +18,9 @@ font pango:monospace 8
 # Set Background Image
 exec_always --no-startup-id feh --bg-fill --randomize $HOME/Pictures/wallpapers/*
 
+# Disable Power Management
+exec --no-startup-id xset -dpms
+
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
