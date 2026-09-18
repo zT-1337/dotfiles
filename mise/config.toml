@@ -1,5 +1,7 @@
 [tools]
 usage = "latest"
+node = "26"
+pnpm = "11"
 
 [settings]
 minimum_release_age = "7d"
